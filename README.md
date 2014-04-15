@@ -1,4 +1,7 @@
 TreeNote
 ========
 
-Tree for Note project
+Tree that reads a particular String input.
+
+
+
