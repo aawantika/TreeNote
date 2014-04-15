@@ -59,5 +59,5 @@ public class Node {
         }
 
         return "data: " + data + ", height: " + height + ", parent: " + parent.data + ", children: " + childrenString; 
-    }
+c    }
 }
